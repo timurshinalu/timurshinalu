@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### My name is Liutciia Timurshina, I'm Junior Data Analyst 🌱
+
+In February 2023, I completed the course on data analytics, during which I learned Python with many of its libraries (Pandas, Matplotlib, Seaborn, Plotly, Numpy, Scipy, Math), SQL, Tableau, and also learned how to preprocess data, exploratory data analysis, statistical data analysis, A/B testing, formulate and test statistical hypotheses, calculate product metrics, visualize data and build dashboards. After graduation, I continue to independently study new analytics tools and dive deeper into the ones I already know.
